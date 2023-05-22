@@ -1,0 +1,353 @@
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.json
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.exe
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.deps.json
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.runtimeconfig.json
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.pdb
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfo.cs
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\scopedcss\bundle\RaulPruebaTecnica.styles.css
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CopyComplete
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\refint\RaulPruebaTecnica.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.pdb
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.genruntimeconfig.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\obj\Debug\net6.0\ref\RaulPruebaTecnica.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\nlog.config
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\NLog.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.pdb
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\nlog.config
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.json
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.exe
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.deps.json
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.runtimeconfig.json
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\NLog.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfo.cs
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\scopedcss\bundle\RaulPruebaTecnica.styles.css
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CopyComplete
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\refint\RaulPruebaTecnica.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.genruntimeconfig.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica\obj\Debug\net6.0\ref\RaulPruebaTecnica.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\nlog.config
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.json
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.exe
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.deps.json
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.runtimeconfig.json
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\NLog.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.AssemblyReference.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfoInputs.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfo.cs
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CoreCompileInputs.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\scopedcss\bundle\RaulPruebaTecnica.styles.css
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CopyComplete
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\refint\RaulPruebaTecnica.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.genruntimeconfig.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica\obj\Debug\net6.0\ref\RaulPruebaTecnica.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\appsettings.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\nlog.config
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.exe
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.deps.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.runtimeconfig.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\NLog.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Service.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.AssemblyInfo.cs
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets\msbuild.RaulPruebaTecnica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets\msbuild.build.RaulPruebaTecnica.props
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RaulPruebaTecnica.props
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RaulPruebaTecnica.props
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\scopedcss\bundle\RaulPruebaTecnica.styles.css
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.csproj.CopyComplete
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\refint\RaulPruebaTecnica.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\RaulPruebaTecnica.genruntimeconfig.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica\obj\Debug\net6.0\ref\RaulPruebaTecnica.dll

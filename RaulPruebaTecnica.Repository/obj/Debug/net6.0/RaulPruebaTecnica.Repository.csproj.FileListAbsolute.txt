@@ -1,0 +1,60 @@
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfo.cs
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.deps.json
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CopyComplete
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\refint\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\Raul\source\repos\RaulPruebaTecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\ref\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.deps.json
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfo.cs
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CopyComplete
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\refint\RaulPruebaTecnica.Repository.dll
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\Raul\source\repos\git\raulpruebatecnica\RaulPruebaTecnica.Repository\obj\Debug\net6.0\ref\RaulPruebaTecnica.Repository.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.deps.json
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.AssemblyReference.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfoInputs.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfo.cs
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CoreCompileInputs.cache
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CopyComplete
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\refint\RaulPruebaTecnica.Repository.dll
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+D:\Users\Raul\Desktop\Git\raul-martorell-deibe\RaulPruebaTecnica.Repository\obj\Debug\net6.0\ref\RaulPruebaTecnica.Repository.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.deps.json
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\bin\Debug\net6.0\RaulPruebaTecnica.Models.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.AssemblyReference.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfoInputs.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.AssemblyInfo.cs
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CoreCompileInputs.cache
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.csproj.CopyComplete
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\refint\RaulPruebaTecnica.Repository.dll
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\RaulPruebaTecnica.Repository.pdb
+C:\Users\RaulMartorellDeibe\OneDrive - Capitole Consulting\Escritorio\raul-martorell-deibe-prueba-tecnica-vueling\RaulPruebaTecnica.Repository\obj\Debug\net6.0\ref\RaulPruebaTecnica.Repository.dll
